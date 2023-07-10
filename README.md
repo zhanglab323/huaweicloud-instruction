@@ -32,3 +32,5 @@
 * zlab-finance-data由徐老师上传财务数据
 * zlab-experience-data由课题组同学上传自己的实验数据。进去之后找到自己名字的文件夹，自己做好文件管理。
 * zlab-meeting由负责收集每周组会PPT的同学上传当周PPT
+
+后续有其他内容可以新建桶
