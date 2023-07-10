@@ -18,10 +18,15 @@
 
 ## 上传实验数据
 * 回到控制台-搜索对象存储服务OBS
+
+<div align=center>
+<img src="https://github.com/zhanglab323/huaweicloud-instruction/assets/65983489/eb667277-875f-446d-8307-5ad297494189" width="800">
+</div>
+
 * 此处有三个桶
 
 <div align=center>
-<img src="https://github.com/zhanglab323/huaweicloud-instruction/assets/65983489/ae9d2975-4053-4e6f-8ab7-65f727e87f10" width="600">
+<img src="https://github.com/zhanglab323/huaweicloud-instruction/assets/65983489/ae9d2975-4053-4e6f-8ab7-65f727e87f10" width="800">
 </div>
 
 * zlab-finance-data由徐老师上传财务数据
